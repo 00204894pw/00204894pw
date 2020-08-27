@@ -2,8 +2,8 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Services"
-    url: "/services/"
+  - name: "Wybór platformy"
+    url: "/platform/"
     weight: 2
   - name: "Team"
     url: "/team/"
