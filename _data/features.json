@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Bezpieczeństwo",
+    "description": "Zabezpieczenie przed pożarem, powodzią, kradzieżą.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Kontrola",
+    "description": "Automatyczny monitoring, realizacja działań planowanych i cyklicznych, automatyczna reakcja na zdażenia.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Opensource & DYI",
+    "description": "Wykorzystaj potencjał rozwiązań Opensource i swoją inwencje.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
