@@ -7,6 +7,10 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# System automatyki niskoprądowej
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Celem projektu jest prototyp systemu automatyki domowej. Z wykorzystaniem oprogramowania opensource w oparciu o komputer terminalowy o niskim poborze prądu.
+
+Szczegóły dotyczące założeń w sekcji Założenia.
+Szczegóły dotyczące opracowanych i możliwych przypadków użycia w sekcji Przypadki Użycia.
+Poniżej opis wykorzystanych komponentów i rozwiązań.
