@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'PW 2020 - Projekt Mechatronika - Uklad automatyki niskoenergetycznej'
+title: 'PW 2020 - Projekt Mechatronika - Układ automatyki niskoenergetycznej'
 
 google_analytics_id: null
 homepage:
