@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/00204894pw'
 exclude: ['README.md']
 permalink: pretty
 title: 'PW 2020 - Projekt Mechatronika - Układ automatyki niskoenergetycznej'
