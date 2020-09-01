@@ -23,9 +23,12 @@ Całość wymagań decydowała o wyborze finalnego rozwiązania
 5. System umożliwia zarządzanie scenami
 6. System po utracie i przywróceniu zasilania automatycznie uruchomi się i połączy z siecią WIFI
 
+
 [SHOULD](#vexant-achivi)
 
 1. System współpracuje z kamerami WIFI w standardzie ONVIF
+2. System umożliwia integracje z zewnętrznymi API (REST)
+3. System umożliwia integracje z zewnętrznymi API (WEBHOOK)
 
 [COULD](#vexant-achivi)
 
